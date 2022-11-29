@@ -1,0 +1,16 @@
+{
+  "name": "Node-Arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "serialport": "^1.2.5",
+    "socket.io": "^0.9.16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
